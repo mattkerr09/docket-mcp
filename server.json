@@ -1,0 +1,30 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mattkerr09/docket",
+  "title": "Docket SEO",
+  "description": "SEO audits that run on your computer: score, ranked fixes and AI-search checks. Free to try.",
+  "version": "1.3.150",
+  "websiteUrl": "https://docketseo.app",
+  "repository": {
+    "url": "https://github.com/mattkerr09/docket-mcp",
+    "source": "github"
+  },
+  "packages": [
+    {
+      "registryType": "mcpb",
+      "identifier": "https://github.com/mattkerr09/docket-site/releases/download/v1.3.150/Docket-1.3.150-macos.mcpb",
+      "fileSha256": "f4b09209429c1ba22318fd24d5201e6aeae79e1dca9e0ad3b8afb170edf727fb",
+      "transport": {
+        "type": "stdio"
+      }
+    },
+    {
+      "registryType": "mcpb",
+      "identifier": "https://github.com/mattkerr09/docket-site/releases/download/v1.3.150/Docket-1.3.150-linux-x86_64.mcpb",
+      "fileSha256": "211d213c4b57570bdb870df1d108b739e4ce4d7f4e4ced40de070b3274127c8a",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
