@@ -54,3 +54,7 @@ Any other MCP client works the same way: the command and the argument are all it
 ## Free and paid
 
 Without a licence key, `audit_site` returns the free version: the score, the count of problems in each area and the most important problem in full. A licence ($59 once) returns every finding and fix. Details at https://docketseo.app/how-to/audit-your-site-from-an-ai-assistant/
+
+## Licence
+
+The files in this repository are MIT licensed (LICENSE). The Docket SEO app and its built-in MCP server are proprietary software by Kerr & Company LLC, not open source: see NOTICE and https://docketseo.app/legal/terms/.

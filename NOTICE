@@ -1,0 +1,12 @@
+What the MIT licence in LICENSE covers, and what it does not
+
+Covered: the files in this repository (README.md, llms-install.md, server.json and
+the .github workflow).
+
+Not covered:
+
+- The Docket SEO app and the MCP server built into it, which the bundles listed in
+  server.json contain, are proprietary software by Kerr & Company LLC. They are not
+  open source. Their terms: https://docketseo.app/legal/terms/
+- "Docket", "Docket SEO" and the Docket logo (logo-400.png) are trademarks of
+  Kerr & Company LLC. All rights reserved.

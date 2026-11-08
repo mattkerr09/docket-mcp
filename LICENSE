@@ -2,11 +2,6 @@ MIT License
 
 Copyright (c) 2026 Kerr & Company LLC
 
-This licence covers the files in this repository: README.md, llms-install.md,
-server.json and the .github workflow. It does not cover the Docket SEO app, its
-built-in MCP server, or the "Docket" and "Docket SEO" names and logo (see the
-notes after the licence text).
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -24,13 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Not covered by this licence:
-
-- The Docket SEO app and the MCP server built into it, which the bundles listed
-  in server.json contain, are proprietary software by Kerr & Company LLC. They
-  are not open source. Their terms: https://docketseo.app/legal/terms/
-- "Docket", "Docket SEO" and the Docket logo (logo-400.png) are trademarks of
-  Kerr & Company LLC. All rights reserved.
