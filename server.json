@@ -3,7 +3,7 @@
   "name": "io.github.mattkerr09/docket",
   "title": "Docket SEO",
   "description": "SEO audits that run on your computer: score, ranked fixes and AI-search checks. Free to try.",
-  "version": "1.3.156",
+  "version": "1.3.157",
   "websiteUrl": "https://docketseo.app",
   "repository": {
     "url": "https://github.com/mattkerr09/docket-mcp",
@@ -12,24 +12,24 @@
   "packages": [
     {
       "registryType": "mcpb",
-      "identifier": "https://github.com/mattkerr09/docket-site/releases/download/v1.3.156/Docket-1.3.156-macos.mcpb",
-      "fileSha256": "efc494a04ef26bea5475baa7a24445855165849fb038d9825fde91d60f86da79",
+      "identifier": "https://github.com/mattkerr09/docket-site/releases/download/v1.3.157/Docket-1.3.157-macos.mcpb",
+      "fileSha256": "a761435f2930904d3cec635964f3fde6c6bcc23ef23667621ed65e087d648887",
       "transport": {
         "type": "stdio"
       }
     },
     {
       "registryType": "mcpb",
-      "identifier": "https://github.com/mattkerr09/docket-site/releases/download/v1.3.156/Docket-1.3.156-linux-x86_64.mcpb",
-      "fileSha256": "0c92cbc8387bbe990015c25b39784e1b8729dbe2b611f66ec864c397de909e1f",
+      "identifier": "https://github.com/mattkerr09/docket-site/releases/download/v1.3.157/Docket-1.3.157-linux-x86_64.mcpb",
+      "fileSha256": "0ae1db40d92ae7808c2288af54ef6848b4d2b304ea04757a6a365c2433ce6558",
       "transport": {
         "type": "stdio"
       }
     },
     {
       "registryType": "mcpb",
-      "identifier": "https://github.com/mattkerr09/docket-site/releases/download/v1.3.156/Docket-1.3.156-windows-x64.mcpb",
-      "fileSha256": "4ee5c51db3095f19a393936e7956a5dff96b1d249d9a5e7f4e9cd4fc9605699d",
+      "identifier": "https://github.com/mattkerr09/docket-site/releases/download/v1.3.157/Docket-1.3.157-windows-x64.mcpb",
+      "fileSha256": "0867727777bebe212efc7986fad65ad7b2313fc9658f964eee93c04ea0ae3d1c",
       "transport": {
         "type": "stdio"
       }
