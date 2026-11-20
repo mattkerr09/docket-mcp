@@ -6,7 +6,7 @@ The server is the `docket` command with the argument `mcp`. It talks over stdio,
 
 ## Install Docket
 
-- Mac: download Docket from https://docketseo.app/download/ and drag it to Applications.
+- Mac: download Docket from https://checkengineseo.com/download/ and drag it to Applications.
 - Windows: run the installer from the same page.
 - Linux: download `docket-<version>-linux-x86_64.tar.gz` from https://github.com/mattkerr09/docket-site/releases/latest and unpack it anywhere.
 
@@ -53,8 +53,8 @@ Any other MCP client works the same way: the command and the argument are all it
 
 ## Free and paid
 
-Without a licence key, `audit_site` returns the free version: the score, the count of problems in each area and the most important problem in full. A licence ($59 once) returns every finding and fix. Details at https://docketseo.app/how-to/audit-your-site-from-an-ai-assistant/
+Without a licence key, `audit_site` returns the free version: the score, the count of problems in each area and the most important problem in full. A licence (one payment; the price is on https://checkengineseo.com/pricing/) returns every finding and fix. Details at https://checkengineseo.com/how-to/audit-your-site-from-an-ai-assistant/
 
 ## Licence
 
-The files in this repository are MIT licensed (LICENSE). The Docket SEO app and its built-in MCP server are proprietary software by Kerr & Company LLC, not open source: see NOTICE and https://docketseo.app/legal/terms/.
+The files in this repository are MIT licensed (LICENSE). The Docket SEO app and its built-in MCP server are proprietary software by Kerr & Company LLC, not open source: see NOTICE and https://checkengineseo.com/legal/terms/.
