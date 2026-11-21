@@ -1,10 +1,10 @@
-# Docket MCP server
+# Check Engine SEO MCP server
 
-Docket is an SEO audit app that runs on your own computer. Its engine has an MCP server built in, so Claude, the ChatGPT desktop app or any MCP client can run an audit, read past audits and explain a problem with its fix.
+Check Engine SEO (formerly Docket SEO) is an SEO audit app that runs on your own computer. Its engine has an MCP server built in, so Claude, the ChatGPT desktop app or any MCP client can run an audit, read past audits and explain a problem with its fix.
 
 The server is the `docket` command with the argument `mcp`. It talks over stdio, opens no network port, and needs no API key. You install Docket, then point your client at the engine.
 
-## Install Docket
+## Install Check Engine SEO
 
 - Mac: download Docket from https://checkengineseo.com/download/ and drag it to Applications.
 - Windows: run the installer from the same page.
