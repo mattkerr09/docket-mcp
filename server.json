@@ -3,8 +3,8 @@
   "name": "io.github.mattkerr09/docket",
   "title": "Check Engine SEO",
   "description": "SEO audits that run on your computer: score, ranked fixes and AI-search checks. Free to try.",
-  "version": "1.3.165",
-  "websiteUrl": "https://checkengineseo.com",
+  "version": "1.3.166",
+  "websiteUrl": "https://docketseo.app",
   "repository": {
     "url": "https://github.com/mattkerr09/docket-mcp",
     "source": "github"
@@ -12,24 +12,24 @@
   "packages": [
     {
       "registryType": "mcpb",
-      "identifier": "https://github.com/mattkerr09/docket-site/releases/download/v1.3.165/Docket-1.3.165-macos.mcpb",
-      "fileSha256": "dc2fe60d33afdc8cec0c883897ce532befb1f46da6a94a0c82c15ccef42d6a7e",
+      "identifier": "https://github.com/mattkerr09/docket-site/releases/download/v1.3.166/Docket-1.3.166-macos.mcpb",
+      "fileSha256": "70243a3480203ffba1e80489a96db2d52701c54daec5619d4ab9b52d54a86742",
       "transport": {
         "type": "stdio"
       }
     },
     {
       "registryType": "mcpb",
-      "identifier": "https://github.com/mattkerr09/docket-site/releases/download/v1.3.165/Docket-1.3.165-linux-x86_64.mcpb",
-      "fileSha256": "5fbab05422ee4f3bc733802b2f82d269e2c5569ec082fa18951dfabb23b5766a",
+      "identifier": "https://github.com/mattkerr09/docket-site/releases/download/v1.3.166/Docket-1.3.166-linux-x86_64.mcpb",
+      "fileSha256": "bd7d786363512b15cc8748a886288cc4ebcf61023ee1d615c04565d7a0cee843",
       "transport": {
         "type": "stdio"
       }
     },
     {
       "registryType": "mcpb",
-      "identifier": "https://github.com/mattkerr09/docket-site/releases/download/v1.3.165/Docket-1.3.165-windows-x64.mcpb",
-      "fileSha256": "5b76645e45493a9992fb94b5ddeaa9a40c50f743896398f7d04984b40d27cb7f",
+      "identifier": "https://github.com/mattkerr09/docket-site/releases/download/v1.3.166/Docket-1.3.166-windows-x64.mcpb",
+      "fileSha256": "d442674e2e8008462e19fc0f82dcf1590b9137154ad80159de85c8097df2a3cb",
       "transport": {
         "type": "stdio"
       }
